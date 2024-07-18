@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Student  on Dhanalakshmi college of Engineering<br>🌱 I’m currently Pursuing B.Tech in Artificial Intelligence and Data Science<br><br><br>
+🔭 I’m currently Student at Dhanalakshmi college of Engineering<br>🌱 I’m Pursuing B.Tech in Artificial Intelligence and Data Science<br><br><br>
 
 
 ## 🌐 Socials:
