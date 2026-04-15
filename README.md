@@ -1,74 +1,105 @@
-# 💫 About Me:
-🔭 I’m currently working as a **.NET Developer at CognitiveValueTech**<br>
-🌱 I’m Pursuing **B.Tech in Artificial Intelligence and Data Science** at Dhanalakshmi College of Engineering (CGPA: 8.2)<br>
-💻 Currently learning **Advanced Python and SQL**<br>
-🚀 Working on freelancing projects at **XuroCreativeLabs**, building the **Finverse App**<br>
-🎯 Passionate about **API Development**, **Backend Engineering**, and **Data Analytics**<br><br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__r_o_m_e_o__c_o_u_s_i_n_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulraj-gimzr) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gokul-raj26)
+<!-- 🧠 MATRIX RAIN HEADER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760697-8b6f6e1e-5f52-4f69-bc4c-5e3cfc2e6b3a.gif" width="100%">
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&color=E6F21D&center=true&vCenter=true&width=700&lines=GOKUL+RAJ+M;SYSTEM+OVERRIDE;MATRIX+MODE+ACTIVE;BACKEND+ARCHITECT" />
+</h1>
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+<!-- 🔥 NEON STATUS BADGES (FAKE BUTTONS) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-050812?style=for-the-badge&logo=matrix&logoColor=E6F21D"/>
+  <img src="https://img.shields.io/badge/MODE-BUILDING-1F3CDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND-FF3B2F?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🧠 Projects:
-### 🛰️ **Hawkeye – Incentive Management System**
-**Tech Stack:** React JS | .NET Core | SQL Server  
-A platform that automates and optimizes the management of incentive programs for sales teams and partners.  
-- Designed and implemented secure REST APIs using .NET Core and C#.  
-- Built database models and stored procedures to handle complex incentive rules.  
-- Integrated backend services with React frontend for real-time tracking.  
-🔗 [Project Repository (Private/Team Use)](https://github.com/gokul-raj26)
+# 🧠 CORE SYSTEM
 
-### 🧩 **Wireless Sensor Network Attack Prediction**
-**Tech Stack:** Python | ML Algorithms | Jupyter Notebook  
-Developed a system using ML algorithms like Logistic Regression and Random Forest to predict attacks in WSN networks.
+<table>
+<tr>
+<td width="100%">
 
----
 
-# 📜 Certifications:
-- 🎓 **Google Data Analytics – Coursera**  
-- 🧠 **SQL and Relational Databases 101 – Cognitive Class**  
-- 📊 **Learning Microsoft Power BI – Infosys Springboard**  
-- 💼 **Introduction to Business Intelligence – Infosys Springboard**
+identity: Gokul Raj M
+role: .NET Developer @ CognitiveValueTech
+mode: MATRIX ACTIVE
 
----
+current_operations:
+  - 🚀 Finverse App
+  - ⚡ Freelancing @ XuroCreativeLabs
+  - 📊 Data Analytics Learning
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gokul-raj26&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gokul-raj26&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-raj26&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+mission: >
+  Build scalable backend systems
+  and dominate tech space ⚡
+</td> </tr> </table>
+<!-- ⚡ MATRIX DIVIDER -->
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216656944-7e5a9c3c-7d5e-4d3e-bf9d-5e3f8c7c6f3a.gif" width="100%"> </p>
+⚡ TECH GRID
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,react,python,mysql,js,html,css,git&theme=dark"/> </p>
+🎮 SYSTEM MODULES
+<table> <tr> <td width="50%">
+🚀 HAWKEYE
 
----
+🧠 Incentive Engine
+⚙️ .NET Core + SQL
+⚡ Real-time APIs
+🔐 Secure backend
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gokul-raj26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</td> <td width="50%">
+🤖 WSN AI
 
----
+📊 ML Prediction
+🧪 Random Forest
+📡 Attack Detection
+⚡ Smart analytics
 
-[![](https://visitcount.itsvg.in/api?id=gokul-raj26&icon=5&color=1)](https://visitcount.itsvg.in)
+</td> </tr> </table>
+<!-- 🔥 SCANNING ANIMATION --> 
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216656949-3d1c4f4e-7e5c-4e5e-9d5c-5c6f3c5f7c5a.gif" width="100%"> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📊 LIVE SYSTEM DATA
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokul-raj26&show_icons=true&bg_color=050812&title_color=E6F21D&icon_color=1F3CDE&text_color=ffffff"/>
+</p>
+
+🧬 SKILL MATRIX
+
+Backend        ███████████████░░ 92% 
+
+API Dev        ████████████████░96% 
+
+SQL            ████████████░░░░ 85% 
+
+React          ██████████░░░░░░ 75% 
+
+Analytics      ████████████░░░░ 85% 
+
+🎛️ CONTROL PANEL (FAKE BUTTON UI)
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/OPEN-PORTFOLIO-1F3CDE?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/VIEW-PROJECTS-E6F21D?style=for-the-badge&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/CONTACT-ME-FF3B2F?style=for-the-badge"/> 
+</p>
+
+🌐 NETWORK LINKS
+<p align="center"> <a href="https://linkedin.com/in/gokulraj-gimzr"> 
+  <img src="https://img.shields.io/badge/LinkedIn-1F3CDE?style=for-the-badge&logo=linkedin"/>
+</a> 
+  <a href="https://instagram.com/__r_o_m_e_o__c_o_u_s_i_n_">
+  <img src="https://img.shields.io/badge/Instagram-FF3B2F?style=for-the-badge&logo=instagram"/> </a>
+</p>
+
+🧠 FINAL PROTOCOL
+Wake up.
+Build systems.
+Break limits.
+Repeat.
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/213760709-2e5c7c5c-6f3e-4d3e-9d5c-5f7c5c7c5c5c.gif" width="100%"> </p>
