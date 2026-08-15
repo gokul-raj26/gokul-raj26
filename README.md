@@ -9,7 +9,7 @@
 
 <!-- TYPING ANIMATION — emoji-free, fully URL-encoded, tested -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I+am+Gokul+Raj+M%21;Data+Analyst+%7C+Full+Stack+Developer;AI+Automation+Enthusiast+%7C+Freelancer;Founder+of+Xuro+Creative+Labs;Building+from+Chennai+%7C+Aiming+for+UAE;Let%27s+Build+Something+Amazing+Together%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I+am+Gokul+Raj+M%21;Data+Analyst+%7C+Full+Stack+Developer;AI+Automation+Enthusiast+%7C+Freelancer;Founder+of+XuroCreativeLabs;Building+from+Chennai+%7C+Aiming+for+UAE;Let%27s+Build+Something+Amazing+Together%21" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 ║  2021      ║  Started freelancing — first clients, first income      ║
 ║  2023      ║  Built production-grade client projects end-to-end      ║
 ║  2024      ║  Joined CognitiveValueTech · Built RESTful APIs         ║
-║  2025      ║  Founded Xuro Creative Labs · B.Tech AI/DS Graduate     ║
+║  2025      ║  Founded XuroCreativeLabs · B.Tech AI/DS Graduate       ║
 ║  2026      ║  Building AI Solutions · Targeting International Roles  ║
 ╚════════════╩═════════════════════════════════════════════════════════╝
 ```
@@ -208,7 +208,7 @@
  │  01  Incentive Management System API  — .NET + SQL      │
  │  02  Snowflake Learning Path          — Certifications  │
  │  03  AI Automation Projects           — Agents + APIs   │
- │  04  Xuro Creative Labs               — Agency Growth   │
+ │  04  XuroCreativeLabs                 — Agency Growth   │
  │  05  Personal Portfolio               — v2 Redesign     │
  └─────────────────────────────────────────────────────────┘
 ```
@@ -235,7 +235,7 @@
 ┌──────────────────────┬──────────────────────────┬──────────────────────────┐
 │    LEARNING          │    BUILDING              │    SEEKING               │
 ├──────────────────────┼──────────────────────────┼──────────────────────────┤
-│  Snowflake           │  Xuro Creative Labs      │  Data Analyst Role       │
+│  Snowflake           │  XuroCreativeLabs        │  Data Analyst Role       │
 │  Advanced SQL        │  Personal Portfolio      │  Full Stack Projects     │
 │  Data Analytics      │  AI Automation           │  Freelance Clients       │
 │  C / C++ / Python    │  SaaS Products           │  Intl. Remote Opps       │
@@ -296,11 +296,11 @@ ROADMAP 2026
 
 ---
 
-## 🏢 About Xuro Creative Labs
+## 🏢 About XuroCreativeLabs
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║              XURO CREATIVE LABS                          ║
+║              XUROCREATIVELABS                            ║
 ║                                                          ║
 ║   Design-first creative agency building digital          ║
 ║   experiences — branding, automation & AI solutions.     ║
